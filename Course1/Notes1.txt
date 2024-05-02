@@ -1,0 +1,32 @@
+Product Manager Skill Inventory
+Overview
+Product management requires a variety of skills to be successful. This role requires being responsible for the product. As a result, you may find yourself in front of senior management defending a decision, negotiating resources, or even explaining what the competition is doing. To succeed in this role, you must be agile, adaptable, and use the right tools at the right time.
+
+The skills for this role are broad and include more than just technical skills. You will need to navigate a complex political environment and have a high level of strategic thinking. You will need to collaborate and be able to have difficult conversations with others who have competing interests.
+
+Objectives
+This reading will:
+
+Summarize skills required to be an effective product manager
+Discuss key product manager knowledge requirements
+User experience skill
+UX, or user experience, is an important skill set required for product managers. Your customers are real people, even if you work in a technological environment. They are diverse people with various goals, needs, biases, and abilities. As the person responsible for managing the entire product lifecycle, you must accommodate this diversity. It would help if you accounted for everything from design to testing to information flow. While a basic understanding of UX design should be sufficient, it would help to collaborate with UX designers too.
+
+Business acumen
+Product managers must also have business acumen. Product management is the tangible end of the company's brand. It delivers what the customer expects. Therefore, you need to think about all aspects of the business, such as financials, and how it relates to the overall strategy. In finance, you should be able to understand and articulate the benefits of launching a product or making changes to an existing design.
+
+Analytical skills
+Product managers solve problems. They make calculated decisions based on logic, data, and proven qualitative tools. They know how to approach management with elaborate ideas, recommendations, and explanations. You also need to analyze data, so analytical skills are critical. For example, you may use statistics to determine the correlation between variables in the market, or you may look at financial indices and interpret what the market is doing.
+
+You need to know how to think strategically and understand how product decisions affect the overall growth and direction of the business. It means knowing how products impact the company's brand and image.
+
+Communication skills
+Successful people in these positions are great communicators. Communication includes working with all levels within a company as well as external customers and partners. You must be comfortable public speaking, presenting, and leading groups through various data collection efforts, such as focus groups.
+
+Knowledge requirements
+Product managers should have a solid understanding of how to collect data. They should be creative in understanding customer needs and ensuring the product meets customer expectations. For example, a product manager, Tony, is responsible for ABC Company's newest power tool. Tony has heard from his retail contacts that the tool is selling well. Tony did not realize which market segment was buying the tool and missed an opportunity to make it attractive to other groups. Product managers should collect data to understand how the product is selling.
+
+Project management skills
+Product managers should also know how their work relates to different areas of the company. Since the product manager is responsible for the entire lifecycle, this person should have project management skills. Development environments typically use Scrum and Agile iterative approaches. For example, a company uses a Scrum approach to complete development work or manage projects. In that case, the product manager should know how to engage and collaborate with the product owner. The product owner is responsible for the vision and represents the customer to the development team. The product manager is responsible for guiding the product through development.
+
+Everyone should be familiar with the development process in your company. There should be a strategic method for development and execution, and the product manager is responsible for ensuring that efforts follow that method.
