@@ -20,3 +20,47 @@ Beliefs and values
 Finally, your work should always be guided by your beliefs and values. You should believe in the mission and vision of the company. The products should reflect your beliefs and you should believe in the products you manage.
 
 The use of your personality in product management is situational and you should be consistent in your approach. You should know when the right time is to bring out the best of your personality. If the situation calls for strong leadership, then this is the best time to capitalize on it. Maybe the company has an idea of what it wants to do but lacks the enthusiasm or entrepreneurial skills to put it into action.
+
+Lab: The Role of a Product Manager
+Estimated time needed: 30 minutes
+
+Overview
+In this lab, you will review a scenario with the goal of defining the role of a product manager in IT Industrial Services and developing a framework for product management. You will also build a list of skills essential to a product owner's success.
+
+Objectives
+After completing this lab, you will be able to:
+
+Define the role of a product manager in IT Industrial Services
+Develop a framework for product management in IT Industrial Services
+Build a list of skills essential to product owner's success
+Prerequisites
+For this lab, you have been provided with a Template/Answer sheet. The documents are in Microsoft Word format. It is suggested that you have either Word installed on your computer or have a Microsoft 365 online account. You may also use other word processing software like Google Docs that allow you to open Word documents.
+If you want to sign up for Microsoft Office 365 online and need help with the steps to sign up, click here.
+If you are new to Microsoft Word, click here.
+Scenario: Launch of a new mobile app
+IT Industrial Services has just completed its fifth year of operation and has grown to 300 employees. They began by offering universities the services to manage their learning platforms. They partnered with a company called Learning, Inc., which provides the platform.
+
+Lately, your CEO has been talking about growth and positioning the company in the market to offer more than just platform management. She has also heard that some of her customers have moved to another company that focuses on the college scale. She feels they must offer more customized services for universities and community colleges.
+
+Currently, the company does not have a product manager and is not specifically involved in product management. The CEO believes that the company can only grow if it invests in true product management and is ready to hire three product managers. As VP of Strategy, you have the opportunity to set up the product management department.
+
+Exercise
+Define the role of a product manager in IT Industrial Services, develop a framework for product management, and build a list of skills essential to a product owner's success.
+
+Keeping the CTRL key pressed, click here to download the Answer sheet to record your answers.
+Note: On Mac systems, keep the COMMAND key pressed instead of the CTRL key.
+
+Open the Answer Sheet that you downloaded.
+
+Review the scenario and define an ideal product manager for IT Industrial Services based on the following criteria:
+
+Skills
+Experience
+Understanding of the development process
+Goals
+Vision about the product management organization work
+Criteria for success
+Identify the benefits of having a product manager in the organization by reflecting on the following questions:
+How does this favor them against the competition?
+How does it improve their opportunity for growth?
+How does it position them in the market?
