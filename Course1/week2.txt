@@ -64,3 +64,35 @@ Identify the benefits of having a product manager in the organization by reflect
 How does this favor them against the competition?
 How does it improve their opportunity for growth?
 How does it position them in the market?
+
+
+Product Management Lifecycle Key Deliverables
+Overview
+As you make your way through the work of product management, you will achieve important results at each stage of the lifecycle. Although planning is important, product managers need to focus on the lifecycle aspects.
+
+Objectives
+Illustrate key deliverables during each step of the product management lifecycle
+The Conceive phase
+In the Conceive phase, the product manager is responsible for a portfolio of analyzes that show the product is worth developing. Internal and external analysis should be conducted. For example, an analysis of SWOT should be conducted to show the company's ability to produce the product and some of the obstacles that may stand in its way. They should demonstrate a thorough understanding of the market and the competition. An analysis should be prepared that documents the various options available to product managers to meet the need.
+
+After product managers have developed options, they decide where to focus and create a concept. This can be done by using a prioritization matrix to look at and evaluate the options. Next, they seek approval for the concept and begin designing a product. The product manager may decide to go a step further and create a prototype or model for others to see. 3D printing technology makes this easy and inexpensive to do. The product manager also designs a marketing and implementation strategy. You may also need to get corporate approval but expect resistance from at least one person. If you wait for consensus, you may never get to the planning stage.
+
+The Plan phase
+The Plan phase produces more concrete results. This phase builds on the conceptual phase and fleshes out the concepts you have created. You should expect to build a team, create a project plan, a business case, and an implementation plan, and a more sophisticated marketing strategy. Perhaps one of the most important deliverables at this stage is the product roadmap. This document details how the product will move through its lifecycle and sets expectations for how the product will perform and handle demand. Finally, a launch strategy is developed. This will explain how the public will be made aware of the product, and will include other considerations such as pilot testing, demonstrations, and beta testing.
+
+The Develop phase
+In the Develop phase, product development focuses on building the product and refining the design. Details are added to the strategies and a specific implementation plan is created. Operations are involved and a plan is developed to pass on the product after launch. Note that further refinement of the previous deliverables is necessary. All documentation must be alive in the sense that it will be updated as more information about customer needs and the market is gathered and the product takes shape in prototype form. Quality assurance is turned on to ensure the integrity of the verification process.
+
+All products must meet the customer's requirements and specifications. Therefore, testing should be performed regularly during this phase. Usability should be tested so that you not only verify the specifications, but also whether the customer can get value from the product. Then the launch plan is created, which includes items such as pricing, sales plans, advertising, and sales promotions. A support plan is developed so that the customer support team takes some of the responsibility as they face the customers. Training materials are also created.
+
+The Qualify phase
+Next is the Qualify phase, where beta testing happens and the product is offered to the market for the first time. This all happens before the official launch. It is an opportunity to get valuable feedback and correct everything before the full-scale launch. Before the launch, the company makes the decision whether to hold off or push ahead with the launch. Despite all the work that has gone into the product up to this point, there may be obstacles that need to be addressed or the company will find that it needs to abandon the project.
+
+The Launch phase
+The Launch phase is where the final launch plan is developed. Preparations for a successful launch are very involved. During this phase, risks and contingencies must be researched and mitigation strategies developed. Marketing materials are created and prepared for deployment.
+
+The Deliver phase
+The product moves into the Deliver phase, where you hand over the product to the business. This phase is about learning and developing the product. You may need to make adjustments to the product or reposition based on information. It is constantly in flux and changing.
+
+The Retire phase
+Finally, there is the Retire phase. An end-of-life plan is created to determine how support will end, contracts will be terminated, and what will happen to the product as it becomes obsolete.
